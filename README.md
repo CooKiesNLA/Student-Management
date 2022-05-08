@@ -1,3 +1,1 @@
 # Student-Management
-
-New Assignment
